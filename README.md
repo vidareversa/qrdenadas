@@ -22,7 +22,7 @@ Los jugadores deben explorar un tablero utilizando coordenadas y escanear códig
 
 ## 🖥️ Capturas de pantalla
 
-### Tablero principal (PC) - Lo que vemos todos los jugadores
+<h3 align="center">Tablero principal (PC) - Lo que vemos todos los jugadores</h3>
 
 ![Pantalla de tablero PC](docs/images/captura.png)
 
