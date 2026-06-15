@@ -26,9 +26,10 @@ Los jugadores deben explorar un tablero utilizando coordenadas y escanear códig
 
 ![Pantalla de tablero PC](docs/images/captura.png)
 
-### Escaneo de códigos QR (Celular) - Las pistas que sacamos del mazo
-
-![Pantalla de escaneo de QR (celular)](docs/images/celu.jpeg)
+<h3 align="center">Escaneo de códigos QR (Celular) - Las pistas que sacamos del mazo</h3>
+<p align="center">
+  <img src="docs/images/celu.jpeg" alt="Pantalla de escaneo de QR" width="200">
+</p>
 
 ---
 
