@@ -1,5 +1,8 @@
 # 🎯 Qrdenadas
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 **Qrdenadas** es un juego educativo que combina **coordenadas**, **códigos QR** y **creatividad** para crear una experiencia interactiva de aprendizaje.
 
 > Proyecto desarrollado con fines exclusivamente educativos y sin objetivos comerciales.
